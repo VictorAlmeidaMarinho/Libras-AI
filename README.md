@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 Aguarde a conclusão da instalação de todas as bibliotecas necessárias.
 
----
+
 
 ## Executando o Projeto
 
@@ -73,19 +73,6 @@ python main.py
 
 A câmera será aberta automaticamente e o sistema iniciará o reconhecimento dos sinais.
 
----
-
-## Estrutura do Projeto
-
-```text
-.
-├── main.py
-├── requirements.txt
-├── README.md
-└── ...
-```
-
----
 
 ## Solução de Problemas
 
@@ -100,8 +87,6 @@ Certifique-se de que o ambiente virtual está ativado antes de executar:
 ```bash
 pip install -r requirements.txt
 ```
-
----
 
 ## Autores
 
