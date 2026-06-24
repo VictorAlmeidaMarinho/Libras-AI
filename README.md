@@ -94,3 +94,4 @@ pip install -r requirements.txt
 - Lucas de Carvalho
 - Jennifer Aguiar
 - Samile Barreto
+- Saul Ramos
